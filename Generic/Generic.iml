@@ -79,5 +79,6 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-htmlunit-driver:2.43.1" level="project" />
     <orderEntry type="library" name="Maven: org.webbitserver:webbit:0.4.15" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty:3.5.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.0.8" level="project" />
   </component>
 </module>
