@@ -31,6 +31,7 @@ public class HomePage {
     public void clickSearchbutton(){
         searchButton1.click();
         searchBox.sendKeys("Contact Us");
+
         searchButton2.click();
 //       // TestLogger.log("Click Search Box");
        // return getPageTitle();

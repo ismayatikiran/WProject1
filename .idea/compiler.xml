@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Carefirst" />
+        <module name="Century21" />
         <module name="Generic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Carefirst" target="1.8" />
+      <module name="Century21" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="WebAB2002" target="1.8" />
     </bytecodeTargetLevel>

@@ -12,6 +12,7 @@
     <modules>
         <module>Carefirst</module>
         <module>Generic</module>
+        <module>Century21</module>
     </modules>
 
     <dependencyManagement>
