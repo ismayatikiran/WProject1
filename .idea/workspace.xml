@@ -14,55 +14,76 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="WebAB2002" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2736">
-              <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Century21/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BrowserDriver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/browserdriver/BrowserDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="111" column="134" lean-forward="false" selection-start-line="111" selection-start-column="134" selection-end-line="111" selection-end-column="134" />
+            <state relative-caret-position="468">
+              <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4367#4368#0" expanded="true" />
-                <element signature="e#4397#4398#0" expanded="true" />
+                <element signature="e#4396#4397#0" expanded="true" />
+                <element signature="e#4426#4427#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HPageTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HPageTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object_test/HPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="432">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#1152#1153#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiscountJoinPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object/DiscountJoinPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="31" column="88" lean-forward="false" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiscountJoinPageTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object_test/DiscountJoinPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DelegatingMethodAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,8 +91,8 @@
       <file leaf-file-name="HPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object/HPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+            <state relative-caret-position="1440">
+              <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,9 +139,14 @@
         <option value="$PROJECT_DIR$/Century21/src/test/resources/EcommerceTestRunnerFile.xml" />
         <option value="$PROJECT_DIR$/Century21/src/test/java/page_object/PageHome.java" />
         <option value="$PROJECT_DIR$/Carefirst/src/test/java/page_objects/HomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/browserdriver/BrowserDriver.java" />
-        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object/HPage.java" />
+        <option value="$PROJECT_DIR$/Century21/Extent-Report/ExtentReport.html" />
         <option value="$PROJECT_DIR$/Century21/src/test/java/page_object_test/HPageTest.java" />
+        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object_test/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/browserdriver/BrowserDriver.java" />
+        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object/LoginPage.java" />
+        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object/HPage.java" />
+        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object_test/DiscountJoinPageTest.java" />
+        <option value="$PROJECT_DIR$/Century21/src/test/java/page_object/DiscountJoinPage.java" />
       </list>
     </option>
   </component>
@@ -299,6 +325,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -311,18 +338,6 @@
               <item name="WebAB2002" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebAB2002" type="462c0819:PsiDirectoryNode" />
               <item name="Century21" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAB2002" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAB2002" type="462c0819:PsiDirectoryNode" />
-              <item name="Century21" type="462c0819:PsiDirectoryNode" />
-              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAB2002" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAB2002" type="462c0819:PsiDirectoryNode" />
-              <item name="Century21" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAB2002" type="b2602c69:ProjectViewProjectNode" />
@@ -360,15 +375,15 @@
               <item name="Century21" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page_object_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,7 +419,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HPageTest.testSearchbox">
+  <component name="RunManager" selected="TestNG.DiscountJoinPageTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -453,22 +468,22 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="BrowserDriver.setUp" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscountJoinPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="browserdriver.*" />
+          <option name="PATTERN" value="page_object_test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Generic" />
+      <module name="Century21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="browserdriver" />
-      <option name="MAIN_CLASS_NAME" value="browserdriver.BrowserDriver" />
-      <option name="METHOD_NAME" value="setUp" />
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.DiscountJoinPageTest" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -485,7 +500,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscountJoinPageTest.testdiscountpage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="page_object_test.*" />
@@ -497,10 +512,10 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="page_object_test" />
-      <option name="MAIN_CLASS_NAME" value="page_object_test.HPageTest" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.DiscountJoinPageTest" />
+      <option name="METHOD_NAME" value="testdiscountpage" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
@@ -509,42 +524,10 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="moduleWithDependencies" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" value="" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="HPageTest.testClickdesigner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="page_object_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Century21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="page_object_test" />
-      <option name="MAIN_CLASS_NAME" value="page_object_test.HPageTest" />
-      <option name="METHOD_NAME" value="testClickdesigner" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <envs />
       <properties />
       <listeners />
@@ -581,38 +564,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HPageTest.testSearchbox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="page_object_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Century21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="page_object_test" />
-      <option name="MAIN_CLASS_NAME" value="page_object_test.HPageTest" />
-      <option name="METHOD_NAME" value="testSearchbox" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -641,6 +592,70 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="LoginPageTest.testloginPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="page_object_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Century21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.LoginPageTest" />
+      <option name="METHOD_NAME" value="testloginPage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="LoginPage.getlogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="page_object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Century21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="page_object" />
+      <option name="MAIN_CLASS_NAME" value="page_object.LoginPage" />
+      <option name="METHOD_NAME" value="getlogin" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <envs />
       <properties />
       <listeners />
@@ -680,19 +695,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="TestNG.HomePageTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.HPageTest" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.BrowserDriver.setUp" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.HPageTest.testClickdesigner" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.HPageTest.testSearchbox" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.HPageTest.testMouseover" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.HPageTest.testMouseover" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.LoginPageTest.testloginPage" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.LoginPage.getlogin" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.DiscountJoinPageTest.testdiscountpage" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.DiscountJoinPageTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.HPageTest.testSearchbox" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.HPageTest.testClickdesigner" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.HPageTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.HPageTest.testMouseover" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.BrowserDriver.setUp" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.DiscountJoinPageTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.DiscountJoinPageTest.testdiscountpage" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.LoginPageTest.testloginPage" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.LoginPage.getlogin" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.HPageTest.testMouseover" />
       </list>
     </recent_temporary>
   </component>
@@ -713,35 +728,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 13m 42s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 17h 52m 05s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 14m 27s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 17h 54m 02s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 16m 11s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 17h 56m 46s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 45m 18s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 17h 57m 41s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 46m 28s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 17h 58m 01s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 51m 35s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 18h 05m 54s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 18h 53m 09s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 18h 06m 28s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 19h 10m 53s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="DiscountJoinPageTest_testdiscountpage - 2020.09.21 at 18h 11m 19s.xml">
+      <configuration name="DiscountJoinPageTest.testdiscountpage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testClickdesigner - 2020.09.20 at 19h 11m 56s.xml">
-      <configuration name="HPageTest.testClickdesigner" configurationId="TestNG" />
+    <history-entry file="LoginPageTest_testloginPage - 2020.09.21 at 17h 20m 30s.xml">
+      <configuration name="LoginPageTest.testloginPage" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HPageTest_testSearchbox - 2020.09.20 at 18h 43m 21s.xml">
-      <configuration name="HPageTest.testSearchbox" configurationId="TestNG" />
+    <history-entry file="LoginPageTest_testloginPage - 2020.09.21 at 17h 21m 40s.xml">
+      <configuration name="LoginPageTest.testloginPage" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -759,31 +774,31 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.48381877" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.47411004" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.41262135" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947463" sideWeight="0.43203884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12944984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947463" sideWeight="0.5873786" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947463" sideWeight="0.56796116" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.4935275" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.7908576" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.7884304" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2932848" sideWeight="0.49688336" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.49838188" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2932848" sideWeight="0.49136788" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50311667" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2932848" sideWeight="0.5086321" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947463" sideWeight="0.49838188" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -815,78 +830,46 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50311667" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#281#302#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -902,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -910,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,31 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Carefirst/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -993,10 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-413">
           <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#281#302#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,9 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="21" column="62" lean-forward="false" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2421">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,31 +976,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_objects/TransformationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_objects/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_objects/TransformationPage.java" />
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_objects/HomePage.java" />
     <entry file="file://$PROJECT_DIR$/Carefirst/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="43" column="12" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="43" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,9 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1076,35 +1003,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding>
-            <element signature="e#2778#2779#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Carefirst/src/test/java/page_objects/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Century21/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
+        <state relative-caret-position="1548">
           <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
           <folding />
         </state>
@@ -1122,60 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <marker date="1524946201825" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1524946201825" expanded="false" signature="156:1007" ph="..." />
-            <marker date="1524946201825" expanded="true" signature="1462:2052" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="2058:2076" ph="/**...*/" />
-            <marker date="1524946201825" expanded="true" signature="2144:2434" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="2440:2458" ph="/**...*/" />
-            <marker date="1524946201825" expanded="true" signature="2513:2802" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="2849:3151" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3062:3143" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3217:3559" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3470:3551" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3604:3902" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3815:3894" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="3966:4304" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="4217:4296" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="4356:4570" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="4641:4878" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="4922:5127" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="5187:5788" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="5557:5730" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="5863:6054" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="6107:6374" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="6410:6649" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="6697:6963" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="6994:7227" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="7273:7496" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="7525:7720" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="7775:7945" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="7999:8084" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="8136:8396" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="8431:8663" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="8717:8913" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="8993:9318" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="9397:9538" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="9598:9890" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="9943:10174" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="10210:10413" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="10484:11029" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="11109:11748" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="11787:11986" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="12032:12304" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="12354:13485" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="13526:13975" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="14003:14226" ph="{...}" />
-            <marker date="1524946201825" expanded="false" signature="14253:14264" ph=" { " />
-            <marker date="1524946201825" expanded="false" signature="14287:14293" ph=" }" />
-            <marker date="1524946201825" expanded="true" signature="14348:14903" ph="{...}" />
-            <marker date="1524946201825" expanded="false" signature="14944:14955" ph=" { " />
-            <marker date="1524946201825" expanded="false" signature="15014:15020" ph=" }" />
-            <marker date="1524946201825" expanded="true" signature="15077:15856" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="15320:15443" ph="{...}" />
-            <marker date="1524946201825" expanded="true" signature="15475:15850" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,164 +1037,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
-          <folding>
-            <marker date="1524946203310" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1524946203310" expanded="false" signature="146:323" ph="..." />
-            <marker date="1524946203310" expanded="true" signature="403:410" ph="{}" />
-            <marker date="1524946203310" expanded="true" signature="469:563" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="657:779" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="923:1063" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="1165:1282" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="1383:1500" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="1602:1719" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="1837:1954" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="2065:2186" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="2296:2417" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="2528:2649" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="2776:2897" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="3007:3128" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="3237:3358" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="3468:3589" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="3715:3836" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="3947:4068" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="4178:4299" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="4410:4531" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="4658:4779" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="4906:5027" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="5153:5274" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="5401:5522" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="5665:5786" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="5954:6079" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="6272:6401" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="6457:6548" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="6639:6758" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="6899:7036" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="7135:7249" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="7347:7461" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="7560:7674" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="7789:7903" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="8011:8129" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="8236:8354" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="8462:8580" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="8704:8822" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="8929:9047" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="9153:9271" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="9378:9496" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="9619:9737" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="9845:9963" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="10070:10188" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="10296:10414" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="10538:10656" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="10780:10898" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="11021:11139" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="11263:11381" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="11521:11639" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="11804:11926" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="12116:12242" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="12320:12463" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="12576:12747" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="12910:13099" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="13223:13386" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="13509:13672" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="13796:13959" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="14099:14262" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="14395:14562" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="14694:14861" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="14994:15161" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="15310:15477" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="15609:15776" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="15907:16074" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="16206:16373" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="16521:16688" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="16821:16988" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="17120:17287" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="17420:17587" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="17736:17903" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="18052:18219" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="18367:18534" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="18683:18850" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="19015:19182" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="19372:19543" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="19758:19933" ph="{...}" />
-            <marker date="1524946203310" expanded="false" signature="20021:20032" ph=" { " />
-            <marker date="1524946203310" expanded="false" signature="20079:20085" ph=" }" />
-            <marker date="1524946203310" expanded="true" signature="20201:20388" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="20480:20801" ph="{...}" />
-            <marker date="1524946203310" expanded="false" signature="20890:20901" ph=" { " />
-            <marker date="1524946203310" expanded="false" signature="20949:20955" ph=" }" />
-            <marker date="1524946203310" expanded="true" signature="21072:21261" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="21354:21682" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="21758:21916" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="21993:22300" ph="{...}" />
-            <marker date="1524946203310" expanded="true" signature="22388:23407" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/base/Preconditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0-sources.jar!/org/openqa/selenium/interactions/Actions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/screenshots/testClickdesigner (09.20.2020-17.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/screenshots/test.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/screenshots/testMouseover (09.20.2020-17.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/browserdriver/BrowserDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="111" column="134" lean-forward="false" selection-start-line="111" selection-start-column="134" selection-end-line="111" selection-end-column="134" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4367#4368#0" expanded="true" />
-            <element signature="e#4397#4398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/screenshots/testClickdesigner (09.20.2020-17.png" />
+    <entry file="file://$PROJECT_DIR$/Century21/screenshots/test.png" />
+    <entry file="file://$PROJECT_DIR$/Century21/screenshots/testMouseover (09.20.2020-17.png" />
     <entry file="file://$PROJECT_DIR$/Century21/Century21.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-432">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/Extent-Report/ExtentReport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18180">
-          <caret line="522" column="0" lean-forward="true" selection-start-line="522" selection-start-column="0" selection-end-line="522" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Century21/debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1348,6 +1054,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/Extent-Report/ExtentReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16659">
+          <caret line="522" column="0" lean-forward="false" selection-start-line="522" selection-start-column="0" selection-end-line="522" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1357,10 +1070,131 @@
         <state />
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15732">
+          <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/debug.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.6-jre/guava-23.6-jre-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="881" column="0" lean-forward="false" selection-start-line="881" selection-start-column="0" selection-end-line="881" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0-sources.jar!/org/openqa/selenium/interactions/Actions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0-sources.jar!/org/openqa/selenium/support/pagefactory/internal/LocatingElementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0-sources.jar!/org/openqa/selenium/support/pagefactory/DefaultElementLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/browserdriver/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4426#4427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object_test/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object/HPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+        <state relative-caret-position="1440">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object/DiscountJoinPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="31" column="88" lean-forward="false" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1369,12 +1203,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object_test/HPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="432">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Century21/src/test/java/page_object_test/DiscountJoinPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -35,7 +35,7 @@ public class BrowserDriver {
 
 
  @BeforeMethod
-    public void setUp() {
+    public void setUp() throws NullPointerException{
         /**
          *
          * Here we will setup the driver
@@ -43,8 +43,8 @@ public class BrowserDriver {
          * */
         System.setProperty("webdriver.chrome.driver","C:/BATCH-OF-2020/WebAB2002/Generic/drivers/chromedriver.exe");
         driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
-        driver.manage().timeouts().pageLoadTimeout(70, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10000, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(100, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         // Open Browser with the Home Page
        // driver.get("https://individual.carefirst.com/individuals-families/home.page");

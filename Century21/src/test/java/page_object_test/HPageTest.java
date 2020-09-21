@@ -11,8 +11,9 @@ public class HPageTest extends BrowserDriver {
 
     HPage hPage = null;
 
+
     @BeforeMethod
-    public void initialized (){
+    public void initializedPages (){
         hPage = PageFactory.initElements(driver,HPage.class);
     }
 
@@ -22,15 +23,23 @@ public class HPageTest extends BrowserDriver {
         String actualTitle = hPage.getDesignPagetitle();
        Assert.assertEquals(actualTitle, "SHOP BY DESIGNERS AND FASHION BRANDS");
    }
-
     @Test
    public void testSearchbox() throws InterruptedException {
       hPage.Searchbox();
       String actualDressQunatity = hPage.getDressQuantity();
-      Assert.assertEquals(actualDressQunatity,"1,021 items");
+      Assert.assertEquals(actualDressQunatity,"1,015 items");
     }
+
     @Test
-    public void testMouseover() throws NullPointerException{
+    public void testMouseover() throws InterruptedException{
         hPage.mouseOver();
+        String actualWomenlist = hPage.getWomenBtitle();
+        Assert.assertEquals(actualWomenlist,"Boutiques");
     }
+
+    @Test
+    public void testClicknewArrival(){
+        hPage.clickonNewarrival();
+    }
+
 }

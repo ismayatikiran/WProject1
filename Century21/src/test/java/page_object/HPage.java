@@ -6,7 +6,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.ui.Select;
 import reporting.TestLogger;
+
+import java.util.List;
 
 public class HPage {
    WebDriver driver = null;
@@ -25,27 +28,34 @@ public class HPage {
 
    @FindBy(how = How.ID,using = "search-submit")
    WebElement seachSubmit;
-
    @FindBy(how = How.CLASS_NAME,using = "number-results")
    WebElement TotalNumberofDress;
 
+   @FindBy(how = How.CSS,using = "a[href^=\"/categories/new-arrivals\"]")
+   WebElement newArrival;
+
+   @FindBy(how = How.XPATH,using = "//*[@id=\"women-boutiques\"]")
+   WebElement WomenBtitle;
 
 
 
+
+//Clicking the page and getting the title of the page for to validate the page title
       public void clickdesigner() {
             Designer.click();
           TestLogger.log("Clicked on Designer button");
-
 
       }
 
       public String getDesignPagetitle(){
           String Dtitle = DesignPagetitle.getText();
           return Dtitle;
+
       }
 
 
 
+      //Validating the Quantity of the Dress
         public void Searchbox() throws InterruptedException {
             searchBox.click();
             TestLogger.log("Clicked on search Button");
@@ -54,22 +64,53 @@ public class HPage {
             seachBox2.submit();
             TestLogger.log("Clicked on Submit");
         }
-
         public String getDressQuantity(){
           String dressQuantity = TotalNumberofDress.getText();
           return dressQuantity;
         }
 
+public String getWomenBtitle(){
+          String WBoutiqTitle = WomenBtitle.getText();
+          return WBoutiqTitle;
+}
 
 
-
-        public void mouseOver() throws NullPointerException {
+        public void mouseOver() throws InterruptedException{
             Actions actions = new Actions(driver);
-            WebElement NewArrival = driver.findElement(By.xpath("//*[@id='new-arrivals']"));
-            actions.moveToElement(NewArrival).perform();
-            driver.close();
+           // WebElement Womenlist = driver.findElement(By.cssSelector("a[href^=\"/categories/new-arrivals\"]"));
+            WebElement Womenlist = driver.findElement(By.xpath("//*[@id=\"women\"]"));
+            actions.moveToElement(Womenlist).build().perform();
+          // WebElement Active = driver.findElement(By.xpath("//*[@id=\"menuitem-women-clothing-womens-active\"]"));
+           //actions.moveToElement(Active).click();
+
+
+           // driver.findElement()
+
+//            try {
+//                Thread.sleep(6000);
+//                actions.click().build().perform();
+//            }catch (Exception e){
+//
+//                System.out.println(e);
+//            }
 
         }
+
+        //DropDown and how many options are present
+    public void clickonNewarrival(){
+         // newArrival.click();
+//        Select dropdown = new Select(newArrival);
+        Select dropdown = new Select(driver.findElement(By.cssSelector("a[href^=\"/categories/new-arrivals\"]")));
+        //dropdown.getOptions().size();
+        TestLogger.log("Number of options present in dropdown: "+ dropdown.getOptions().size());
+        List<WebElement> options = dropdown.getOptions();
+
+        for(WebElement e:options)
+        {
+            TestLogger.log(e.getText());
+        }
+
+      }
 
 
 
