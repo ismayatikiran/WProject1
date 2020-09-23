@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 201.498 s <<< FAILURE! - in TestSuite
+testClickdesigner(page_object_test.HPageTest)  Time elapsed: 60.33 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to find element with id == designer-index (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-IUMP8HU', ip: '192.168.211.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: about:blank, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11, webdriver.remote.sessionid: f79764a7f254d56607b963c5dcc...}
+Session ID: f79764a7f254d56607b963c5dcc41faba9cef0be
+*** Element info: {Using=id, value=designer-index}
+	at page_object_test.HPageTest.testClickdesigner(HPageTest.java:22)
+
+testClicknewArrival(page_object_test.HPageTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at page_object_test.HPageTest.testClicknewArrival(HPageTest.java:44)
+
+testMouseover(page_object_test.HPageTest)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.NullPointerException
+	at page_object_test.HPageTest.testMouseover(HPageTest.java:37)
+
+testSearchbox(page_object_test.HPageTest)  Time elapsed: 0.785 s  <<< FAILURE!
+org.openqa.selenium.ElementNotVisibleException: 
+Cannot click on element (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-IUMP8HU', ip: '192.168.211.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: about:blank, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11, webdriver.remote.sessionid: c4160159cba0f1587f26fc46bbf...}
+Session ID: c4160159cba0f1587f26fc46bbf65ad08d6fe516
+	at page_object_test.HPageTest.testSearchbox(HPageTest.java:30)
+
+testWomenbutton(page_object_test.HPageTest)  Time elapsed: 18.353 s  <<< FAILURE!
+java.lang.NullPointerException
+	at page_object_test.HPageTest.testWomenbutton(HPageTest.java:51)
+
+testloginPage(page_object_test.LoginPageTest)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at page_object_test.LoginPageTest.testloginPage(LoginPageTest.java:21)
+

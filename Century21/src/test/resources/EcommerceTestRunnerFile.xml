@@ -17,6 +17,8 @@
 
         <classes>
             <class name="page_object_test.HPageTest"/>
+            <class name="page_object_test.LoginPageTest"/>
+            <class name="page_object_test.DiscountJoinPageTest"/>
         </classes>
 
         <!--Hello-->

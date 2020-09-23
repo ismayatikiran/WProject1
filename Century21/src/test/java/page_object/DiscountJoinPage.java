@@ -1,10 +1,10 @@
 package page_object;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+
 
 public class DiscountJoinPage {
 
@@ -29,7 +29,7 @@ WebDriver Fname;
 
     public void discountPage(){
 
-    driver.findElement(By.cssSelector("#dwfrm_newsletter_firstName ")).sendKeys("Kiran");
+//    driver.findElement(By.cssSelector("#dwfrm_newsletter_firstName ")).sendKeys("Kiran");
         lastname.sendKeys("Riki");
         zipcode.sendKeys("11426");
         email.sendKeys("ismayatkiran96@gmail.com");

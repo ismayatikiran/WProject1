@@ -37,8 +37,20 @@ public class HPage {
    @FindBy(how = How.XPATH,using = "//*[@id=\"women-boutiques\"]")
    WebElement WomenBtitle;
 
+   @FindBy(how = How.XPATH,using = "//*[@id=\"women\"]")
+   WebElement Womenbutton;
+   @FindBy(how= How.XPATH,using = "//*[@id=\"refinements-bar\"]/div/div[2]/div/div[2]/div[1]")
+   WebElement Wdesigner;
 
 
+
+public void ClickWomenbutton(){
+    Womenbutton.click();
+}
+public void clickWdesign() throws InterruptedException {
+    Wdesigner.click();
+    driver.findElement(By.cssSelector("a[href^=\"/categories/women?prefn1=brand&prefv1=Berkshire\"]")).click();
+}
 
 //Clicking the page and getting the title of the page for to validate the page title
       public void clickdesigner() {
@@ -80,20 +92,6 @@ public String getWomenBtitle(){
            // WebElement Womenlist = driver.findElement(By.cssSelector("a[href^=\"/categories/new-arrivals\"]"));
             WebElement Womenlist = driver.findElement(By.xpath("//*[@id=\"women\"]"));
             actions.moveToElement(Womenlist).build().perform();
-          // WebElement Active = driver.findElement(By.xpath("//*[@id=\"menuitem-women-clothing-womens-active\"]"));
-           //actions.moveToElement(Active).click();
-
-
-           // driver.findElement()
-
-//            try {
-//                Thread.sleep(6000);
-//                actions.click().build().perform();
-//            }catch (Exception e){
-//
-//                System.out.println(e);
-//            }
-
         }
 
         //DropDown and how many options are present

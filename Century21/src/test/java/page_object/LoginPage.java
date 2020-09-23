@@ -17,13 +17,14 @@ public class LoginPage {
 // FindBy(how = How.XPATH,using = "/html/body[@class='device-desktop']/div[@class='page']//div[@class='header']//div[@class='menu']/div[1]//a[@href='https://www.c21stores.com/login']//span[@class='user-message']")
 //@FindBy(how = How.CSS,using = ".hidden-md-down.user > .user-message")
 
-        //Footer
-      //  @FindBy(how = How.XPATH,using = "/html/body/div[1]/footer/div/div[1]/div[4]/div/div/div[1]/ul/li/a")
-    @FindBy(how = How.CLASS_NAME,using = "device-desktop")
+
+    @FindBy(how = How.XPATH,using = "/html/body[@class='device-desktop']/div[@class='page']//div[@class='header']//div[@class='menu']/div[1]//a[@href='https://www.c21stores.com/login']//span[@class='user-message']")
+    //@FindBy(how = How.CLASS_NAME,using = "device-desktop")
     WebElement Loginbutton;
 
 
   public void getlogin(){
+      Loginbutton.click();
     //  driver.get("https://www.c21stores.com/login");
      // Loginbutton.click();
     //Loginbutton.getLocation();

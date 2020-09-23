@@ -3,9 +3,12 @@ package reporting;
 
 
 import com.relevantcodes.extentreports.LogStatus;
-import com.sun.deploy.util.StringUtils;
+//import com.sun.deploy.util.StringUtils;
 import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
+import org.apache.maven.surefire.shade.org.apache.commons.lang3.StringUtils;
+
+
 
 
 public class TestLogger {

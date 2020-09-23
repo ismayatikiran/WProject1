@@ -13,33 +13,41 @@ public class HPageTest extends BrowserDriver {
 
 
     @BeforeMethod
-    public void initializedPages (){
-        hPage = PageFactory.initElements(driver,HPage.class);
+    public void initializedPages() {
+        hPage = PageFactory.initElements(driver, HPage.class);
     }
 
-   @Test
- public void testClickdesigner(){
+    @Test
+    public void testClickdesigner() {
         hPage.clickdesigner();
         String actualTitle = hPage.getDesignPagetitle();
-       Assert.assertEquals(actualTitle, "SHOP BY DESIGNERS AND FASHION BRANDS");
-   }
+        Assert.assertEquals(actualTitle, "SHOP BY DESIGNERS AND FASHION BRANDS");
+    }
+
+
     @Test
-   public void testSearchbox() throws InterruptedException {
-      hPage.Searchbox();
-      String actualDressQunatity = hPage.getDressQuantity();
-      Assert.assertEquals(actualDressQunatity,"1,015 items");
+    public void testSearchbox() throws InterruptedException {
+        hPage.Searchbox();
+        String actualDressQunatity = hPage.getDressQuantity();
+        Assert.assertEquals(actualDressQunatity, "1,015 items");
     }
 
     @Test
-    public void testMouseover() throws InterruptedException{
+    public void testMouseover() throws InterruptedException {
         hPage.mouseOver();
         String actualWomenlist = hPage.getWomenBtitle();
-        Assert.assertEquals(actualWomenlist,"Boutiques");
+        Assert.assertEquals(actualWomenlist, "Boutiques");
     }
 
     @Test
-    public void testClicknewArrival(){
+    public void testClicknewArrival() {
         hPage.clickonNewarrival();
     }
 
+
+    @Test
+    public void testWomenbutton() throws InterruptedException {
+        hPage.ClickWomenbutton();
+        hPage.clickWdesign();
+    }
 }
